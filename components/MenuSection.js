@@ -44,8 +44,8 @@ export default function MenuSection() {
                     <div className="big-button-container">
                         <span
                             className="glf-button "
-                            data-glf-cuid="2add02bc-bad3-480d-ac10-1d8018f02e91"
-                            data-glf-ruid="89b6b4b2-274d-4b1f-97e3-f54299d02f24"
+                            data-glf-cuid="2f21a9c0-b16e-475d-89c4-3eee2cfed364"
+                            data-glf-ruid="6407165a-63dc-4fdd-a054-80f940a493a2"
                             style={{
                                 fontSize: '1.1em',
                                 color: 'white',
