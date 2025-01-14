@@ -13,7 +13,7 @@ export default function MenuSection() {
         <>
             <Head>
                 {/* Load the external script */}
-                <script src="https://www.fbgcdn.com/embedder/js/ewm2.js" defer async></script>
+                <script src="https://www.fbgcdn.com/embedder/js/ewm2.js" defer async ></script>
             </Head>
             <section className="main-section" id="menu-section">
                 <div className="cover-fadeOpacity"></div>
@@ -42,9 +42,9 @@ export default function MenuSection() {
                     <h1 id="menu-title">{languageContext.languageData["menu-title"]}</h1>
                     <p id="menu-description">{languageContext.languageData["menu-description"]}</p>
                     <div className="big-button-container">
-                        <span 
-                            className="glf-button " 
-                            data-glf-cuid="2add02bc-bad3-480d-ac10-1d8018f02e91" 
+                        <span
+                            className="glf-button "
+                            data-glf-cuid="2add02bc-bad3-480d-ac10-1d8018f02e91"
                             data-glf-ruid="89b6b4b2-274d-4b1f-97e3-f54299d02f24"
                             style={{
                                 fontSize: '1.1em',
